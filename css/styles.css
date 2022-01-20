@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  background-color: coral;
+}
+.title {
+  color: rgb(66, 41, 41);
+  font-weight: bold;
+}
+ul {
+  list-style-type: none;
+}
+img {
+  height: auto;
+  width: 350px;
+}
+li a {
+  text-decoration: none;
+  color: blue;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+ul li {
+  background-color: honeydew;
+  width: 13%;
+  margin-bottom: 10px;
+  text-align: center;
+}
